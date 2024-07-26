@@ -1,0 +1,46 @@
+h1{
+    border: 2px solid red;
+    background-color: rgb(201, 156, 243);
+    text-align: center;
+    border-radius: 20px;
+}
+i{
+    color: red;
+}
+h2{
+    color: darkgreen;
+}
+h3{
+    background-color: yellow;
+    border: 1px solid yellow;
+    text-align: center;
+    color: darkgreen;
+}
+label{
+    color: darkgreen;
+}
+table{
+    border-collapse: collapse;
+    color: white;
+    text-align: center;
+}
+.hayvon{
+    background-color: green;
+}
+.faktlar{
+    background-color: blue;
+}
+.qizil{
+    background-color: red;
+    width: 200px;
+}
+.qora{
+    background-color: black;
+    width: 900px;
+}
+.jonatish{
+    background-color: rgb(84, 84, 180);
+    width: 300px;
+    height: 40px;
+    color: white;
+}
